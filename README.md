@@ -19,3 +19,5 @@ quicksort: 快速排序实现
 mtqueue: 多线程队列
 
 swappos: c语言小算法，交换数组数据，使奇数在前偶数在后
+
+minsum: 动态规划发， 数组最小代价加和
